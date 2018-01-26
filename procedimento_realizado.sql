@@ -1,3 +1,7 @@
+#Procedimento realizado informando o codigo no ano de 2017
+
+#SQL
+
 select *
 from sipas.procedimento p
 join sipas.procedimento_executado pe ON p.id = pe.id_procedimento
